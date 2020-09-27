@@ -1,4 +1,4 @@
-package com.example.aplicacionencargada;
+package com.example.lab1imc;
 
 import org.junit.Test;
 
